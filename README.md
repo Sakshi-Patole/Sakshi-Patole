@@ -39,6 +39,9 @@ When I'm not coding, I enjoy drawing, listening to music, reading books, and exp
 ## Connect With Me
 - GitHub: https://github.com/Sakshi-Patole 
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi-Patole&show_icons=true&theme=radical)
 ---
 ⭐ Thank you for visiting my profile!
 
